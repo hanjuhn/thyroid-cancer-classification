@@ -1,4 +1,4 @@
-# Thyroid-Cancer-Classification | 갑상선 암 분류
+# Thyroid-Cancer-Classification | 갑상선 암 여부 예측
 
 ## 🌟 Project Overview | 프로젝트 개요
 
