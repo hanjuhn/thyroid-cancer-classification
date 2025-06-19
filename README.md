@@ -2,7 +2,7 @@
 
 ## 🌟 Project Overview | 프로젝트 개요
 
-Thyroid-Cancer-Classification은 갑상선 암 여부를 예측하기 위한 머신러닝 기반의 분류 모델입니다. LGBM, XGBoost, CatBoost 모델을 스태킹 앙상블 방식으로 결합하였으며 각 모델의 하이퍼파라미터는 Optuna를 활용해 자동으로 최적화하였습니다.
+Thyroid-Cancer-Classification은 갑상선 암 여부를 예측하기 위한 머신러닝 기반의 이진 분류 모델입니다. LGBM, XGBoost, CatBoost 모델을 스태킹 앙상블 방식으로 결합하였으며 각 모델의 하이퍼파라미터는 Optuna를 활용해 자동으로 최적화하였습니다.
 
 ---
 
